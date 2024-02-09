@@ -9,5 +9,5 @@ def fizz_buzz(number):
     result = "Buzz"
   else:
     result= str(number)
-  print(result)
+  #print(result)
   return (result)
