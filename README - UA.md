@@ -81,7 +81,9 @@ both(0, 2) ➞ False
 ```
 
 ## Task 6. Integer in Range?
-Створити функцію **int_within_bounds(number, lower_bound, upper_bound)**, що повертає чи *number* знаходиться в межах між *lower* та *upper*. Повертає *False* якщо *number* не ціле число.  
+Створити функцію **int_within_bounds(number, lower_bound, upper_bound)**, 
+що повертає чи *number* знаходиться в межах між *lower* та *upper*. 
+Повертає *False* якщо *number* не ціле число.  
 
 *Notes.*  
 "В межах" означає, що число більше або рівне за нижню межу та строго менше за верхню межу.
