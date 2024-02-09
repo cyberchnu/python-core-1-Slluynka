@@ -1,3 +1,17 @@
-def fizz_buzz(param):
+def fizz_buzz(number):
   #Type your code here
-  return
+
+  if number % 3 == 0 and number % 5 == 0:
+    result = "FizzBuzz"
+  elif number % 3 == 0:
+    result = "Fizz"
+  elif number % 5 == 0:
+    result = "Buzz"
+  else:
+    result= str(number)
+  print(result)
+  return (result)
+
+
+number=int(input("Enter a number: "))
+fizz_buzz(number)
