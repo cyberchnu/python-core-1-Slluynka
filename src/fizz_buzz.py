@@ -11,3 +11,4 @@ def fizz_buzz(number):
     result= str(number)
   print(result)
   return (result)
+
