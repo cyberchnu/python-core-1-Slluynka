@@ -11,7 +11,3 @@ def fizz_buzz(number):
     result= str(number)
   print(result)
   return (result)
-
-
-number=int(input("Enter a number: "))
-fizz_buzz(number)
