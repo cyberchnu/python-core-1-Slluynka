@@ -8,3 +8,14 @@ def squares_sum(n):
 
 #TEST
 #print(squares_sum(3))
+''' sum=0
+i=5
+while i<=50:
+  sum=sum+i
+  i += 1
+print(sum)
+
+sum=0
+for i in range (5,51):
+  sum = sum + i
+print(sum)'''

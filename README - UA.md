@@ -123,7 +123,8 @@ squares_sum(13) ➞ 819
 ```
 
 ## Task 9. Give Me the Even Numbers
-Створити функцію **sum_even_nums_in_range(start, stop)**, що отримує 2 параметри *(start, stop)*, та повертає суму всіх парних чисел в діапазоні.
+Створити функцію **sum_even_nums_in_range(start, stop)**, що отримує 2 параметри *(start, stop)*,
+та повертає суму всіх парних чисел в діапазоні.
 ```plaintext
 sum_even_nums_in_range(10, 20) ➞ 90
 # 10, 12, 14, 16, 18, 20
